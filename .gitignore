@@ -1,2 +1,48 @@
 venv/
 datasets/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+build/
+dist/
+*.egg-info/
+*.egg
+*.wheel
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+coverage.xml
+.cache
+
+# Jupyter Notebooks
+*.ipynb_checkpoints/
+*.nbconvert/
+.ipython/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+._.DS_Store
+
+# Editor-specific
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Lab State
+.lab/
+
+# Conda
+.conda/
+conda-meta/
+
